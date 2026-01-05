@@ -1,0 +1,6 @@
+@GreenSale.AdminApi_HostAddress = http://localhost:5054
+
+GET {{GreenSale.AdminApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

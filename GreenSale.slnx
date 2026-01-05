@@ -1,0 +1,17 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/GreenSale.AdminApi/GreenSale.AdminApi.csproj" Id="d793aabd-f988-4acb-aa5e-ad137e267926" />
+    <Project Path="src/GreenSale.ClientApi/GreenSale.ClientApi.csproj" Id="ffb55640-dd25-414c-b756-9e356804b186" />
+    <Project Path="src/GreenSale.Core/GreenSale.Core.csproj" Id="e651e564-a6fa-4228-bbf7-cf66892f580b" />
+    <Project Path="src/GreenSale.Data/GreenSale.Data.csproj" Id="d6dfacee-091f-4a20-9c22-ecef87a295a7" />
+  </Folder>
+  <Folder Name="/src/Broker/">
+    <Project Path="src/Broker/GreenSale.Broker.Data/GreenSale.Broker.Data.csproj" Id="3773bca8-a39b-4155-bf47-6349df81653e" />
+  </Folder>
+  <Folder Name="/src/Identity/">
+    <Project Path="src/Identity/GreenSale.Identity.Data/GreenSale.Identity.Data.csproj" Id="12140c6a-f0c8-4a5f-bf24-d494c29c24d7" />
+  </Folder>
+  <Folder Name="/src/Storage/">
+    <Project Path="src/Storage/GreenSale.Storage.Data/GreenSale.Storage.Data.csproj" Id="62680541-44af-4d84-8ffe-9c1b0134e1bc" />
+  </Folder>
+</Solution>
