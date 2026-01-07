@@ -11,6 +11,9 @@
   <Folder Name="/src/Identity/">
     <Project Path="src/Identity/GreenSale.Identity.Data/GreenSale.Identity.Data.csproj" Id="12140c6a-f0c8-4a5f-bf24-d494c29c24d7" />
   </Folder>
+  <Folder Name="/src/Producer/">
+    <Project Path="src/Producer/GreenSale.Producer.Data/GreenSale.Producer.Data.csproj" Id="dcf66ec9-60c7-450b-b122-ad7962f2582e" />
+  </Folder>
   <Folder Name="/src/Storage/">
     <Project Path="src/Storage/GreenSale.Storage.Data/GreenSale.Storage.Data.csproj" Id="62680541-44af-4d84-8ffe-9c1b0134e1bc" />
   </Folder>

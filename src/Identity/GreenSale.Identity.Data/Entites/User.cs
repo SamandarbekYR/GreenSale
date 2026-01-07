@@ -8,4 +8,5 @@ public class User : IdentityUser<long>,IEntity
     public string? FirstName { get; set; }
     public bool IsDeleted { get; set; }
     public ICollection<Device>? Devices { get; set; }
+    public List<Storage>
 }
